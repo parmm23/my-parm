@@ -154,7 +154,7 @@ tr:hover{
 </div>
 
 <div class="footer">
-จัดทำโดย <b>นางสาวรักษิกา สันดี</b><br>
+จัดทำโดย <b>นางสาวนริศรา โมราวรรณ์</b><br>
 Information Technology
 </div>
 
